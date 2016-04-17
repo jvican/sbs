@@ -1,0 +1,11 @@
+[package]
+name    = "sbs"
+version = "0.0.1"
+authors = [ "Simon Ochsenreither <simon@ochsenreither.de>" ]
+
+[dependencies]
+clap   = "2.2.5"
+xdg    = "2.0.0"
+hyper  = "0.8.0"
+flate2 = "0.2.13"
+tar    = "0.4.4"
